@@ -1,3 +1,4 @@
+using System.Runtime.CompilerServices;
 using BuildingBlocks.CQRS;
 using FluentValidation;
 using MediatR;
