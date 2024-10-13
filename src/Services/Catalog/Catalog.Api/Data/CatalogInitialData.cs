@@ -44,6 +44,96 @@ public class CatalogInitialData : IInitialData
             Price = 950.00M,
             Category = ["Smart Phone"]
         },
+        new Product
+        {
+            Id = Guid.NewGuid(),
+            Name = "Huawei 00",
+            Description = "This phone is the company's biggest change to its own.",
+            ImageFile = "product-4.png",
+            Price = 950.00M,
+            Category = ["Smart Phone"]
+        },
+        new Product
+        {
+            Id = Guid.NewGuid(),
+            Name = "Huawei 10",
+            Description = "This phone is the company's biggest change to its own.",
+            ImageFile = "product-5.png",
+            Price = 950.00M,
+            Category = ["Smart Phone"]
+        },
+        new Product
+        {
+            Id = Guid.NewGuid(),
+            Name = "Huawei 20",
+            Description = "This phone is the company's biggest change to its own.",
+            ImageFile = "product-6.png",
+            Price = 950.00M,
+            Category = ["Smart Phone"]
+        },
+        new Product
+        {
+            Id = Guid.NewGuid(),
+            Name = "Huawei 30",
+            Description = "This phone is the company's biggest change to its own.",
+            ImageFile = "product-7.png",
+            Price = 950.00M,
+            Category = ["Smart Phone"]
+        },
+        new Product
+        {
+            Id = Guid.NewGuid(),
+            Name = "Huawei 40",
+            Description = "This phone is the company's biggest change to its own.",
+            ImageFile = "product-8.png",
+            Price = 950.00M,
+            Category = ["Smart Phone"]
+        },
+        new Product
+        {
+            Id = Guid.NewGuid(),
+            Name = "Huawei 50",
+            Description = "This phone is the company's biggest change to its own.",
+            ImageFile = "product-9.png",
+            Price = 950.00M,
+            Category = ["Smart Phone"]
+        },
+        new Product
+        {
+            Id = Guid.NewGuid(),
+            Name = "Huawei 60",
+            Description = "This phone is the company's biggest change to its own.",
+            ImageFile = "product-10.png",
+            Price = 950.00M,
+            Category = ["Smart Phone"]
+        },
+        new Product
+        {
+            Id = Guid.NewGuid(),
+            Name = "Huawei 70",
+            Description = "This phone is the company's biggest change to its own.",
+            ImageFile = "product-11.png",
+            Price = 950.00M,
+            Category = ["Smart Phone"]
+        },
+        new Product
+        {
+            Id = Guid.NewGuid(),
+            Name = "Huawei 80",
+            Description = "This phone is the company's biggest change to its own.",
+            ImageFile = "product-12.png",
+            Price = 950.00M,
+            Category = ["Smart Phone"]
+        },
+        new Product
+        {
+            Id = Guid.NewGuid(),
+            Name = "Huawei 99",
+            Description = "This phone is the company's biggest change to its own.",
+            ImageFile = "product-13.png",
+            Price = 950.00M,
+            Category = ["Smart Phone"]
+        },
         
     };
 }
